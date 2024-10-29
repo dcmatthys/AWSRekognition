@@ -11,31 +11,31 @@
           <mxGeometry x="499" y="373" width="42" height="81" as="geometry" />
         </mxCell>
         <mxCell id="PJq4ZduZdzAgiIetN25B-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EAEDED;fontSize=22;fontColor=#FFFFFF;strokeColor=none;labelBackgroundColor=none;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
-          <mxGeometry x="810" width="539" height="969" as="geometry" />
+          <mxGeometry x="810" width="539" height="590" as="geometry" />
         </mxCell>
         <mxCell id="PJq4ZduZdzAgiIetN25B-6" value="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="840" y="20" width="40" height="38" as="geometry" />
         </mxCell>
         <mxCell id="PJq4ZduZdzAgiIetN25B-7" value="2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="840" y="100" width="40" height="38" as="geometry" />
+          <mxGeometry x="840" y="80" width="40" height="38" as="geometry" />
         </mxCell>
         <mxCell id="PJq4ZduZdzAgiIetN25B-8" value="3" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="840" y="181" width="40" height="38" as="geometry" />
+          <mxGeometry x="840" y="148" width="40" height="38" as="geometry" />
         </mxCell>
         <mxCell id="PJq4ZduZdzAgiIetN25B-9" value="4" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="840" y="254" width="40" height="38" as="geometry" />
+          <mxGeometry x="840" y="211" width="40" height="38" as="geometry" />
         </mxCell>
         <mxCell id="PJq4ZduZdzAgiIetN25B-10" value="5" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="840" y="331.5" width="40" height="38" as="geometry" />
+          <mxGeometry x="840" y="276" width="40" height="38" as="geometry" />
         </mxCell>
         <mxCell id="PJq4ZduZdzAgiIetN25B-11" value="6" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="840" y="395" width="40" height="38" as="geometry" />
+          <mxGeometry x="840" y="340" width="40" height="38" as="geometry" />
         </mxCell>
         <mxCell id="PJq4ZduZdzAgiIetN25B-12" value="7" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="840" y="480" width="40" height="38" as="geometry" />
+          <mxGeometry x="840" y="423" width="40" height="38" as="geometry" />
         </mxCell>
         <mxCell id="PJq4ZduZdzAgiIetN25B-13" value="8" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="840" y="577" width="40" height="38" as="geometry" />
+          <mxGeometry x="840" y="502" width="40" height="38" as="geometry" />
         </mxCell>
         <mxCell id="PJq4ZduZdzAgiIetN25B-14" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#ED7100;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.container_registry_image;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
           <mxGeometry x="95" y="186" width="68" height="68" as="geometry" />
@@ -194,25 +194,25 @@
           <mxGeometry x="930" y="20" width="280" height="42" as="geometry" />
         </mxCell>
         <mxCell id="PJq4ZduZdzAgiIetN25B-61" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;The image stored in the S3 bucket will be used to analyze and generate labels.&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="930" y="98" width="280" height="42" as="geometry" />
+          <mxGeometry x="930" y="78" width="280" height="42" as="geometry" />
         </mxCell>
         <mxCell id="PJq4ZduZdzAgiIetN25B-62" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Amazon Rekognition will be used to analyze the selected image from the S3 bucket and detecting labels with their confidence levels.&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="930" y="160" width="280" height="80" as="geometry" />
+          <mxGeometry x="930" y="127" width="280" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PJq4ZduZdzAgiIetN25B-64" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;IAM will be used to provide user authorization and access to the AWS CLI on your system.&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="930" y="241.5" width="280" height="63" as="geometry" />
+          <mxGeometry x="930" y="198.5" width="280" height="63" as="geometry" />
         </mxCell>
         <mxCell id="PJq4ZduZdzAgiIetN25B-65" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;AWS Command Line Interface (CLI) will be used for interacting with AWS Services.&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="930" y="324.5" width="280" height="52" as="geometry" />
+          <mxGeometry x="930" y="269" width="280" height="52" as="geometry" />
         </mxCell>
         <mxCell id="PJq4ZduZdzAgiIetN25B-67" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Python file will consists of the programming logic for extracting the image from S3 bucket and running detect_labels operation from AWS Rekognition.&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="930" y="386" width="280" height="72" as="geometry" />
+          <mxGeometry x="930" y="323" width="280" height="72" as="geometry" />
         </mxCell>
         <mxCell id="PJq4ZduZdzAgiIetN25B-68" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;The output will consists of a number of specified labels accordinA lambda function to retreive the text and send it to Amazon g to the input with their confidence levels.&amp;nbsp;&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="930" y="470" width="280" height="72" as="geometry" />
+          <mxGeometry x="930" y="406" width="280" height="72" as="geometry" />
         </mxCell>
         <mxCell id="PJq4ZduZdzAgiIetN25B-69" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;A pop-up screen will be generated with the image chosen from the S3 bucket with bounding boxes around the detected labels.&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="930" y="560" width="280" height="72" as="geometry" />
+          <mxGeometry x="930" y="485" width="280" height="72" as="geometry" />
         </mxCell>
         <mxCell id="g_oej5OAoQCfgXEra4IR-4" value="AWS Cloud" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud;strokeColor=#232F3E;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#232F3E;dashed=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
           <mxGeometry x="270" y="100" width="520" height="260" as="geometry" />
